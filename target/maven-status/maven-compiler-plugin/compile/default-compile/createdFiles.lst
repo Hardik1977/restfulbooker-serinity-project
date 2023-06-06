@@ -1,0 +1,14 @@
+restfulbooker\serinity\project\model\UpdateBookingPojo.class
+restfulbooker\serinity\project\utils\TestUtils.class
+restfulbooker\serinity\project\model\AuthorisationPojo.class
+restfulbooker\serinity\project\model\UpdateBookingPojo$BookingDates.class
+restfulbooker\serinity\project\restfulinfo\ReadSteps.class
+restfulbooker\serinity\project\model\BookingPojo$BookingDates.class
+restfulbooker\serinity\project\model\BookingPojo.class
+restfulbooker\serinity\project\App.class
+restfulbooker\serinity\project\utils\PropertyReader.class
+restfulbooker\serinity\project\model\PatchBookingPojo.class
+restfulbooker\serinity\project\restfulinfo\DeleteSteps.class
+restfulbooker\serinity\project\restfulinfo\CreateSteps.class
+restfulbooker\serinity\project\constants\EndPoints.class
+restfulbooker\serinity\project\restfulinfo\UpdateSteps.class
